@@ -1,11 +1,10 @@
-package test;
+package com.practice.ds.hashtable;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
 import com.practice.ds.hashtable.KeyInterface;
-import com.practice.ds.hashtable.MaxSizeException;
 import com.practice.ds.hashtable.MyHashTable;
 import com.practice.ds.hashtable.TestKey;
 

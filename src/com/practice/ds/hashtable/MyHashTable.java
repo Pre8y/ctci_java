@@ -1,5 +1,13 @@
 package com.practice.ds.hashtable;
 
+/*
+ * HashTable - for highly efficient lookup store a value in 
+ * an array at hash(key) index. Needs
+ * very large array, or create a linked list. 
+ * Store value at hash(key)%ARRAY location in a list in array
+ */
+
+
 public class MyHashTable<X extends KeyInterface, Y> {
 	
 	

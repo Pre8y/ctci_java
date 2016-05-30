@@ -1,4 +1,4 @@
-package com.practice.ds.hashtable;
+package com.practice.ds.dynamicarray;
 
 import static org.junit.Assert.*;
 

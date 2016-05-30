@@ -1,4 +1,4 @@
-package com.practice.ds.hashtable;
+package com.practice.ds.dynamicarray;
 
 /*
  * array that doubles its size when max value is reached doubling complexity n ,
